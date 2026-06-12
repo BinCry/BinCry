@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Software Development Student at University of Information Technology (UIT) | InSecLab</i>
+  <i>Software Development Student at University of Information Technology (UIT)</i>
 </p>
 
 ---
