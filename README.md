@@ -67,19 +67,19 @@
 ### 🚧 My Projects
 
 #### 🧠 AI, Automation & IoT
-*   [**Claude_Kit**](https://github.com/BinCry/Claude_Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
+*   [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
 *   [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
-*   [**Tool_DKHP_UIT**](https://github.com/BinCry/Tool_DKHP_UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
+*   [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
 *   [**IOT-UIT**](https://github.com/BinCry/IOT-UIT): Các module code xử lý phần cứng và nền tảng IoT.
 
 #### 🌐 Web Applications & Systems
 *   [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
-*   [**UIT_Knowledge**](https://github.com/BinCry/UIT_Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
+*   [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
 *   [**Airline-ticket-sales-management**](https://github.com/BinCry/Airline-ticket-sales-management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
 *   [**Mini-Shop**](https://github.com/BinCry/Mini-Shop): Giao diện cửa hàng thương mại điện tử trực quan bằng HTML/CSS/JS.
 *   [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
-*   [**Travel_App**](https://github.com/BinCry/Travel_App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
-*   [**Portal_UEH**](https://github.com/BinCry/Portal_UEH): Dự án môn học theo phương pháp Design Thinking.
+*   [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
+*   [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
 
 #### 🎮 Game Development
 *   [**Project-404-Not-Found**](https://github.com/BinCry/Project-404-Not-Found): Tựa game trinh thám giải đố cốt truyện "Ký ức bị xóa" phát triển bằng Unity & C#.
@@ -88,10 +88,10 @@
 #### 💡 Utilities, Mini-Tools & Others
 *   [**Lucky-Spin**](https://github.com/BinCry/Lucky-Spin): Trò chơi vòng quay may mắn tương tác trực tiếp trên trình duyệt.
 *   [**Photobooth**](https://github.com/BinCry/Photobooth): Ứng dụng Web API hỗ trợ chụp ảnh trực tiếp qua camera.
-*   [**Game_Lixi**](https://github.com/BinCry/Game_Lixi): Dự án mini game Lì xì thực hành HTML/CSS/JS.
+*   [**Game-Lixi**](https://github.com/BinCry/Game-Lixi): Dự án mini game Lì xì thực hành HTML/CSS/JS.
 *   [**Mindmap**](https://github.com/BinCry/Mindmap): Đồ án môn học lập trình trực quan, ứng dụng vẽ sơ đồ tư duy (C#).
 *   [**TanPhucvaNgocThuy**](https://github.com/BinCry/TanPhucvaNgocThuy): Trang web đếm ngày yêu (Love Countdown) lãng mạn dành cho cặp đôi.
-*   [**Homework_SE346**](https://github.com/BinCry/Homework_SE346): Bài tập môn học SE346.
+*   [**Homework-SE346**](https://github.com/BinCry/Homework-SE346): Bài tập môn học SE346.
 *   [**Policy**](https://github.com/BinCry/Policy): Giao diện hiển thị các chính sách và điều khoản.
 
 ---
