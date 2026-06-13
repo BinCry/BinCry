@@ -1,4 +1,4 @@
-i<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
 
