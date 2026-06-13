@@ -75,7 +75,7 @@
 #### 🌐 Web Applications & Systems
 *   [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
 *   [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
-*   [**Airline-ticket-sales-management**](https://github.com/BinCry/Airline-ticket-sales-management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
+*   [**Airline-Ticket-Dales-Management**](https://github.com/BinCry/Airline-Ticket-Sales-Management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
 *   [**Mini-Shop**](https://github.com/BinCry/Mini-Shop): Giao diện cửa hàng thương mại điện tử trực quan bằng HTML/CSS/JS.
 *   [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
 *   [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
