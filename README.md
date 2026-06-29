@@ -15,11 +15,11 @@
 ---
 
 ### 🚀 About me
-*   👨‍💻 **Software Developer** passionate about building scalable, secure, and modern applications.
-*   🧠 **My expertise lies in**: System Architecture, Cybersecurity, and workflow automation.
-*   🎮 **Game Developer**: Crafting mystery-themed narratives and mechanics using Unity.
-*   ✨ **Design Philosophy**: Minimalist aesthetics, cold/light palettes, and professional UI/UX optimization.
-*   📫 **Reach me at**: https://www.linkedin.com/in/minh-quan-685522394/
+* 👨‍💻 **Software Developer** passionate about building scalable, secure, and modern applications.
+* 🧠 **My expertise lies in**: System Architecture, Cybersecurity, and workflow automation.
+* 🎮 **Game Developer**: Crafting mystery-themed narratives and mechanics using Unity.
+* ✨ **Design Philosophy**: Minimalist aesthetics, cold/light palettes, and professional UI/UX optimization.
+* 📫 **Reach me at**: https://www.linkedin.com/in/minh-quan-685522394/
 
 ---
 
@@ -67,44 +67,44 @@
 ### 🚧 My Projects
 
 #### 🧠 AI, Automation & IoT
-*   [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
-*   [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
-*   [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
-*   [**IOT-UIT**](https://github.com/BinCry/IOT-UIT): Các module code xử lý phần cứng và nền tảng IoT.
+* [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
+* [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
+* [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
+* [**IOT-UIT**](https://github.com/BinCry/IOT-UIT): Các module code xử lý phần cứng và nền tảng IoT.
 
 #### 🌐 Web Applications & Systems
-*   [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
-*   [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
-*   [**Airline-Ticket-Sales-Management**](https://github.com/BinCry/Airline-Ticket-Sales-Management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
-*   [**Mini-Shop**](https://github.com/BinCry/Mini-Shop): Giao diện cửa hàng thương mại điện tử trực quan bằng HTML/CSS/JS.
-*   [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
-*   [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
-*   [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
+* [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
+* [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
+* [**Airline-Ticket-Sales-Management**](https://github.com/BinCry/Airline-Ticket-Sales-Management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
+* [**Mini-Shop**](https://github.com/BinCry/Mini-Shop): Giao diện cửa hàng thương mại điện tử trực quan bằng HTML/CSS/JS.
+* [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
+* [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
+* [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
 
 #### 🎮 Game Development
-*   [**Project-404-Not-Found**](https://github.com/BinCry/Project-404-Not-Found): Tựa game trinh thám giải đố cốt truyện "Ký ức bị xóa" phát triển bằng Unity & C#.
-*   [**Flappy-Bird**](https://github.com/BinCry/Flappy-Bird): Bản clone game kinh điển hoàn chỉnh với cơ chế vật lý và âm thanh bằng Python/Pygame.
+* [**Project-404-Not-Found**](https://github.com/BinCry/Project-404-Not-Found): Tựa game trinh thám giải đố cốt truyện "Ký ức bị xóa" phát triển bằng Unity & C#.
+* [**Flappy-Bird**](https://github.com/BinCry/Flappy-Bird): Bản clone game kinh điển hoàn chỉnh với cơ chế vật lý và âm thanh bằng Python/Pygame.
 
 #### 💡 Utilities, Mini-Tools & Others
-*   [**Lucky-Spin**](https://github.com/BinCry/Lucky-Spin): Trò chơi vòng quay may mắn tương tác trực tiếp trên trình duyệt.
-*   [**Photobooth**](https://github.com/BinCry/Photobooth): Ứng dụng Web API hỗ trợ chụp ảnh trực tiếp qua camera.
-*   [**Game-Lixi**](https://github.com/BinCry/Game-Lixi): Dự án mini game Lì xì thực hành HTML/CSS/JS.
-*   [**Mindmap**](https://github.com/BinCry/Mindmap): Đồ án môn học lập trình trực quan, ứng dụng vẽ sơ đồ tư duy (C#).
-*   [**TanPhucvaNgocThuy**](https://github.com/BinCry/TanPhucvaNgocThuy): Trang web đếm ngày yêu (Love Countdown) lãng mạn dành cho cặp đôi.
-*   [**Homework-SE346**](https://github.com/BinCry/Homework-SE346): Bài tập môn học SE346.
-*   [**Policy**](https://github.com/BinCry/Policy): Giao diện hiển thị các chính sách và điều khoản.
+* [**Lucky-Spin**](https://github.com/BinCry/Lucky-Spin): Trò chơi vòng quay may mắn tương tác trực tiếp trên trình duyệt.
+* [**Photobooth**](https://github.com/BinCry/Photobooth): Ứng dụng Web API hỗ trợ chụp ảnh trực tiếp qua camera.
+* [**Game-Lixi**](https://github.com/BinCry/Game-Lixi): Dự án mini game Lì xì thực hành HTML/CSS/JS.
+* [**Mindmap**](https://github.com/BinCry/Mindmap): Đồ án môn học lập trình trực quan, ứng dụng vẽ sơ đồ tư duy (C#).
+* [**TanPhucvaNgocThuy**](https://github.com/BinCry/TanPhucvaNgocThuy): Trang web đếm ngày yêu (Love Countdown) lãng mạn dành cho cặp đôi.
+* [**Homework-SE346**](https://github.com/BinCry/Homework-SE346): Bài tập môn học SE346.
+* [**Policy**](https://github.com/BinCry/Policy): Giao diện hiển thị các chính sách và điều khoản.
 
 ---
 
 ### 📊 Github Statistic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinCry&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinCry&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BinCry&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinCry&theme=radical&hide_border=true" width="96%" />
 </p>
 
 ---
