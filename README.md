@@ -99,8 +99,8 @@
 ### 📊 Github Statistic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinCry&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinCry&layout=compact&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 
 <p align="center">
