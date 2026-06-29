@@ -111,4 +111,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
-Đổi 2 mục bị lỗi được không
