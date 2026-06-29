@@ -99,14 +99,30 @@
 ### 📊 Github Statistic
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinCry&layout=compact&theme=radical&hide_border=true&v=1" width="48%" />
+  <a href="https://github.com/BinCry">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" 
+    />
+  </a>
+  <a href="https://github.com/BinCry">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BinCry&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" 
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinCry&theme=radical&hide_border=true" width="96%" />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com/?user=BinCry&theme=radical&hide_border=true" 
+      width="96%" 
+    />
+  </a>
 </p>
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
