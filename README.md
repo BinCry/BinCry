@@ -70,6 +70,7 @@
 * [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
 * [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
 * [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
+* [**Studocu**](https://github.com/BinCry/Studocu ): Tool bypass tải tài liệu free trên studocu.
 * [**IOT-UIT**](https://github.com/BinCry/IOT-UIT): Các module code xử lý phần cứng và nền tảng IoT.
 
 #### 🌐 Web Applications & Systems
