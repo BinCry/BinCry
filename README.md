@@ -73,7 +73,7 @@
 * [**Studocu**](https://github.com/BinCry/Studocu ): Tool bypass tải tài liệu free trên studocu.
 * [**IOT-UIT**](https://github.com/BinCry/IOT-UIT): Các module code xử lý phần cứng và nền tảng IoT.
 * [**Temperature-Humid**](https://github.com/BinCry/Temperature-Humid): Học cách sử dụng cảm biến nhiệt độ, độ ẩm
-
+* [**Automatic-Plant-Water**](https://github.com/BinCry/Automatic-Plant-Watering): Hệ thống tưới nước tự động
 
 
 #### 🌐 Web Applications & Systems
