@@ -85,6 +85,7 @@
 * [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
 * [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
 * [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
+* [**Binh-Loi-Healing**](https://github.com/td22042006/binh-loi-healing): Mùa hè xanh Đại học Kinh tế TPHCM (UEH).
 
 #### 🎮 Game Development
 * [**Project-404-Not-Found**](https://github.com/BinCry/Project-404-Not-Found): Tựa game trinh thám giải đố cốt truyện "Ký ức bị xóa" phát triển bằng Unity & C#.
