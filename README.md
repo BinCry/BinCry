@@ -123,16 +123,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=BinCry&theme=radical&hide_border=true"
-      alt="GitHub Streak"
-      width="96%"
-    />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 <p align="center">
