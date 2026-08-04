@@ -67,7 +67,8 @@
 ### 🚧 My Projects
 
 #### 🧠 AI, Automation & IoT
-* [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Hệ thống quản lý tác nhân hỗ trợ Claude bằng Python.
+* [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Claude-Kit là bộ kit chuyên cho workflow kỹ sư phần mềm(ver1).
+* [**Agent-Kit**](https://github.com/BinCry/Agent-Kit): Agent-Kit là bộ kit chuyên cho workflow kỹ sư phần mềm(ver2).
 * [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
 * [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
 * [**Studocu**](https://github.com/BinCry/Studocu ): Tool bypass tải tài liệu free trên studocu.
@@ -79,6 +80,7 @@
 
 #### 🌐 Web Applications & Systems
 * [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
+* [**UIT-Student**](https://github.com/BinCry/UIT-Student): Đóng gói trang portal.uit.edu.vn thành trải nghiệm mobile.
 * [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
 * [**Airline-Ticket-Sales-Management**](https://github.com/BinCry/Airline-Ticket-Sales-Management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
 * [**Mini-Shop**](https://github.com/BinCry/Mini-Shop): Giao diện cửa hàng thương mại điện tử trực quan bằng HTML/CSS/JS.
