@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Minh Quân</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Minh+Qu%C3%A2n" alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/ciber-coding.gif" width="300">
