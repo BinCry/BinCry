@@ -117,7 +117,7 @@
   <a href="https://github.com/BinCry">
     <img 
       height="195" 
-      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     />
   </a>
   <a href="https://github.com/BinCry">
