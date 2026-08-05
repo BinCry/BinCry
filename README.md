@@ -9,8 +9,8 @@
   </a>
   <br><br>
 
-  <!-- Coding GIF MỚI (Đã thay tay thành mây) -->
-  <img src="https://i.ibb.co/MkTbVbN/ciber-coding-clouds-edit.gif" width="300" alt="Coding on Clouds GIF">
+  <!-- Coding GIF với kích thước nhỏ gọn hơn một chút cho cân đối -->
+  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/ciber-coding.gif" width="300" alt="Coding GIF">
   <br><br>
 
   <!-- Giới thiệu bản thân -->
@@ -18,8 +18,6 @@
 </div>
 
 <br>
-
----
 
 ---
 
