@@ -1,18 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
-</p>
+<div align="center">
+  <!-- Hello Kitty & Pink Border GIF -->
+  <img src="https://i.pinimg.com/originals/ab/02/75/ab02759e6660b375b4306351543ed9b6.gif" width="120px" alt="Hello Kitty">
+  <br>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=750&multiline=false&lines=Hi+there!+%F0%9F%91%8B+I'm+Minh+Qu%C3%A2n" alt="Typing SVG" /></a>
-</h1>
+  <!-- Typing SVG với màu hồng EC4899 và font chữ Fira Code -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=750&multiline=false&lines=Hi+there!+%F0%9F%91%8B+I'm+Minh+Qu%C3%A2n" alt="Typing SVG" />
+  </a>
+  <br><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/ciber-coding.gif" width="300">
-</p>
+  <!-- Coding GIF với kích thước nhỏ gọn hơn một chút cho cân đối -->
+  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/ciber-coding.gif" width="300" alt="Coding GIF">
+  <br><br>
 
-<p align="center">
+  <!-- Giới thiệu bản thân -->
   <i>Software Development Student at University of Information Technology (UIT)</i>
-</p>
+</div>
+
+<br>
 
 ---
 
