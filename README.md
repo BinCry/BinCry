@@ -114,7 +114,8 @@
 
 ### 📊 Github Statistic
 
-<!-- Cặp thẻ phía trên (giữ nguyên) -->
+### 📊 Github Statistic
+
 <p align="center">
   <a href="https://github.com/BinCry">
     <img 
@@ -132,9 +133,13 @@
   </a>
 </p>
 
-<!-- THẺ STREAK ĐÃ CHỈNH SỬA (thêm width="100%") -->
+<!-- Cố định height="200" để nó thu gọn chiều dọc lại bằng 2 thẻ trên -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" width="100%" />
+  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" alt="Space shooter contribution graph" />
 </p>
 
 <p align="center">
