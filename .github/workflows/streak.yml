@@ -2,8 +2,8 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy tự động mỗi ngày 1 lần vào lúc 00:00 UTC
-  workflow_dispatch: # Cho phép bấm chạy thủ công trong tab Actions bất cứ lúc nào
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,12 +14,11 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Streak SVG
-        uses: denvercoder1/github-readme-streak-stats-action@v1
+        uses: denvercoder1/github-readme-streak-stats@main
         with:
-          username: BinCry
-          theme: radical
-          hide_border: true
-          output: profile/streak.svg
+          options: user=BinCry&theme=radical&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push SVG
         run: |
