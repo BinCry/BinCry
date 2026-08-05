@@ -115,6 +115,7 @@
 ### 📊 Github Statistic
 
 <p align="center">
+  <!-- Thẻ 1: GitHub Stats -->
   <a href="https://github.com/BinCry">
     <img 
       height="200" 
@@ -122,6 +123,7 @@
       src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" 
     />
   </a>
+  <!-- Thẻ 2: Most Used Languages -->
   <a href="https://github.com/BinCry">
     <img 
       height="200" 
@@ -129,9 +131,14 @@
       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BinCry&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" 
     />
   </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" height="200" />
+  <br>
+  <!-- Thẻ 3: GitHub Streak (set width chuẩn khớp với tổng 2 thẻ trên và loại bỏ khoảng cách thừa) -->
+  <img 
+    src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" 
+    alt="GitHub Streak" 
+    width="100%" 
+    style="max-width: 850px;"
+  />
 </p>
 
 <p align="center">
