@@ -9,7 +9,7 @@
   </a>
   <br><br>
 
-  <!-- Coding GIF với kích thước nhỏ gọn hơn một chút cho cân đối -->
+  <!-- Coding GIF với kích thước nhỏ -->
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/ciber-coding.gif" width="300" alt="Coding GIF">
   <br><br>
 
