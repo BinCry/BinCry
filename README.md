@@ -115,30 +115,27 @@
 ### 📊 Github Statistic
 
 <p align="center">
-  <a href="https://github.com/BinCry">
-    <img 
-      height="200" 
-      align="center" 
-      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" 
-    />
-  </a>
-  <a href="https://github.com/BinCry">
-    <img 
-      height="200" 
-      align="center" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BinCry&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" 
-    />
-  </a>
+  <a href="https://github.com/BinCry">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true" 
+    />
+  </a>
+  <a href="https://github.com/BinCry">
+    <img 
+      height="200" 
+      align="center" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BinCry&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" 
+    />
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
