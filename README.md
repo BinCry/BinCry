@@ -114,8 +114,6 @@
 
 ### 📊 Github Statistic
 
-### 📊 Github Statistic
-
 <p align="center">
   <a href="https://github.com/BinCry">
     <img 
