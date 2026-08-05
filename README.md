@@ -139,9 +139,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" width="100%" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
