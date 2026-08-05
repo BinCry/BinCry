@@ -108,7 +108,7 @@
 * [**Mindmap**](https://github.com/BinCry/Mindmap): Đồ án môn học lập trình trực quan, ứng dụng vẽ sơ đồ tư duy (C#).
 * [**TanPhucvaNgocThuy**](https://github.com/BinCry/TanPhucvaNgocThuy): Trang web đếm ngày yêu (Love Countdown) lãng mạn dành cho cặp đôi.
 * [**Homework-SE346**](https://github.com/BinCry/Homework-SE346): Bài tập môn học SE346.
-* [**Policy**](https://github.com/BinCry/Policy): Giao diện hiển thị các chính sách và điều khoản.
+* [**Tele-Ops**](https://github.com/BinCry/Tele-Ops): Bot telegram quản lý VPS.
 
 ---
 ### 📊 Github Statistic
