@@ -132,7 +132,6 @@
     />
   </a>
 </p>
-
 <!-- Cố định height="200" để nó thu gọn chiều dọc lại bằng 2 thẻ trên -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" alt="GitHub Streak" height="200" />
