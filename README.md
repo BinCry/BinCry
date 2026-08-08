@@ -26,7 +26,7 @@
 * 🧠 **My expertise lies in**: System Architecture, Cybersecurity, and workflow automation.
 * 🎮 **Game Developer**: Crafting mystery-themed narratives and mechanics using Unity.
 * ✨ **Design Philosophy**: Minimalist aesthetics, cold/light palettes, and professional UI/UX optimization.
-* 📭 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-quân-685522394?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=flat&logo=about.me&logoColor=white)](https://www.bincrydev.id.vn/)
+* 📭 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-quân-685522394?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=flat&logo=about.me&logoColor=white)](https://portfolio.bincrydev.id.vn/)
 
 ---
 
