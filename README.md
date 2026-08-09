@@ -96,7 +96,8 @@
 * [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
 * [**Binh-Loi-Healing**](https://github.com/td22042006/binh-loi-healing): Mùa hè xanh Đại học Kinh tế TPHCM (UEH).
 * [**Reverse-Logistic**](https://github.com/BinCry/Reverse-Logistic): Bản nháp của KLTN.
-
+* [**Tarot**](https://github.com/BinCry/Tarot): Bốc bài và AI phân tích kết quả.
+  
 #### 🎮 Game Development
 * [**Project-404-Not-Found**](https://github.com/BinCry/Project-404-Not-Found): Tựa game trinh thám giải đố cốt truyện "Ký ức bị xóa" phát triển bằng Unity & C#.
 * [**Flappy-Bird**](https://github.com/BinCry/Flappy-Bird): Bản clone game kinh điển hoàn chỉnh với cơ chế vật lý và âm thanh bằng Python/Pygame.
