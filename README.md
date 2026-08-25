@@ -89,6 +89,7 @@
 
 #### 🌐 Web Applications & Systems
 * [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
+* [**Borrow-Hub**](https://github.com/BinCry/Borrow-Hub): Nền tảng cho thuê những vật dụng nhàn rỗi
 * [**UIT-Student**](https://github.com/BinCry/UIT-Student): Đóng gói trang portal.uit.edu.vn thành trải nghiệm mobile.
 * [**UIT-Knowledge**](https://github.com/BinCry/UIT-Knowledge): Nền tảng chia sẻ tri thức dành cho sinh viên, cấu hình và triển khai trên Vercel.
 * [**Airline-Ticket-Sales-Management**](https://github.com/BinCry/Airline-Ticket-Sales-Management): Hệ thống quản lý bán vé máy bay viết bằng Java, tích hợp quy trình CI/CD.
