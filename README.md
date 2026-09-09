@@ -76,8 +76,8 @@
 #### 🧠 AI, Automation & IoT
 * [**Claude-Kit**](https://github.com/BinCry/Claude-Kit): Claude-Kit là bộ kit chuyên cho workflow kỹ sư phần mềm(ver1).
 * [**Agent-Kit**](https://github.com/BinCry/Agent-Kit): Agent-Kit là bộ kit chuyên cho workflow kỹ sư phần mềm(ver2).
-* [**Agentic-AI**](https://github.com/BinCry/Agentic-AI): Đồ án môn học Agentic AI
-* [**NCKH**](https://github.com/BinCry/NCKH): Nghiên cứu khoa học
+* [**Agentic-AI**](https://github.com/BinCry/Agentic-AI): Học làm Agent Coding.
+* [**AI-UIT-Smart-Campus**](https://github.com/BinCry/AI-UIT-Smart-Campus): AI Agent cho nền tảng UIT Smart Campus.
 * [**AI-UEH**](https://github.com/BinCry/AI-UEH): Trợ lý thông minh AlexAI hỗ trợ tra cứu thông tin và xử lý dữ liệu.
 * [**Tool-DKHP-UIT**](https://github.com/BinCry/Tool-DKHP-UIT): Tool tự động scan và đăng ký học phần khi có slot trống.
 * [**Studocu**](https://github.com/BinCry/Studocu ): Tool bypass tải tài liệu free trên studocu.
