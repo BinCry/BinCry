@@ -131,12 +131,7 @@
     />
   </a>
   <img 
-    src="https://raw.githubusercontent.com/BinCry/BinCry/main/profile/streak.svg" 
-    alt="GitHub Streak" 
-    width="780" 
-  />
-</p>
-
+    
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
 </p>
