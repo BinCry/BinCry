@@ -97,7 +97,9 @@
 * [**Weather-Forecast**](https://github.com/BinCry/Weather-Forecast): Ứng dụng theo dõi và dự báo thời tiết thời gian thực.
 * [**Travel-App**](https://github.com/BinCry/Travel-App): Nền tảng ứng dụng hỗ trợ du lịch đa năng.
 * [**Portal-UEH**](https://github.com/BinCry/Portal-UEH): Dự án môn học theo phương pháp Design Thinking.
-* [**Binh-Loi-Healing**](https://github.com/td22042006/binh-loi-healing): Mùa hè xanh Đại học Kinh tế TPHCM (UEH).
+* [**Mua-He-Xanh**](https://github.com/BinCry/Mua-He-Xanh): Mùa hè xanh Đại học Kinh tế TPHCM (UEH).
+* [**Costume-Rental-Studio**](https://github.com/BinCry/Costume-Rental-Studio): Studio cho thuê trang phục.
+* [**Costume-Rental-Ops-Agent**](https://github.com/BinCry/Costume-Rental-Ops-Agent): Agent vận hành studio cho thuê trang phục.
 * [**Reverse-Logistic**](https://github.com/BinCry/Reverse-Logistic): Bản nháp của KLTN.
 * [**Tarot**](https://github.com/BinCry/Tarot): Bốc bài và AI phân tích kết quả.
   
