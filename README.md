@@ -119,20 +119,29 @@
 ---
 ### 📊 Github Statistic
 
+### 📊 GitHub Statistics
+
 <p align="center">
   <a href="https://github.com/BinCry">
-    <img 
-      height="195" 
-      src="https://github-readme-stats-fast.vercel.app/api?username=BinCry&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    <img
+      height="195"
+      src="./profile/github-stats.svg"
+      alt="BinCry GitHub Stats"
     />
   </a>
   <a href="https://github.com/BinCry">
-    <img 
-      height="195" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BinCry&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" 
+    <img
+      height="195"
+      src="./profile/top-langs.svg"
+      alt="BinCry Top Languages"
     />
   </a>
-  <img 
-    <p align="center">
-  <img src="https://raw.githubusercontent.com/BinCry/BinCry/main/border.gif" width="100%">
+</p>
+
+<p align="center">
+  <img
+    src="./border.gif"
+    width="100%"
+    alt="Pink Border"
+  />
 </p>
