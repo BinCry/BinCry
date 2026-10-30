@@ -115,6 +115,8 @@
 * [**TanPhucvaNgocThuy**](https://github.com/BinCry/TanPhucvaNgocThuy): Trang web đếm ngày yêu (Love Countdown) lãng mạn dành cho cặp đôi.
 * [**Homework-SE346**](https://github.com/BinCry/Homework-SE346): Bài tập môn học SE346.
 * [**Tele-Ops**](https://github.com/BinCry/Tele-Ops): Bot telegram quản lý VPS.
+* [**AR-Virtual-Try-On**](https://github.com/BinCry/AR-Virtual-Try-On): Thử trang phục thực tế ảo 2D.
+* [**Holo=Craft**](https://github.com/BinCry/Holo-Craft): Nhận diện cử chỉ tay điều khiển vật thể.
 
 ---
 ### 📊 Github Statistic
