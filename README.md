@@ -85,8 +85,9 @@
 * [**Temperature-Humid**](https://github.com/BinCry/Temperature-Humid): Học cách sử dụng cảm biến nhiệt độ, độ ẩm.
 * [**Automatic-Plant-Water**](https://github.com/BinCry/Automatic-Plant-Watering): Hệ thống tưới nước tự động.
 * [**Fall-Warning**](https://github.com/BinCry/Fall-Warning): Thiết bị cảnh báo ngã cho người già.
-
-
+* [**Map**](https://github.com/BinCry/Map): Màn hình chỉ đường Sygic cho ESP32.
+* [**BinhLoi-Agentic**](https://github.com/se373agenticengineering/nhom-43): Xây dựng Helpdesk-Agent để hỗ trợ web dulichbinhloi.
+  
 #### 🌐 Web Applications & Systems
 * [**UIT-Smart-Campus**](https://github.com/BinCry/UIT-Smart-Campus): Hệ thống thông minh quản lý và hỗ trợ khuôn viên trường Đại học CNTT (UIT).
 * [**Borrow-Hub**](https://github.com/BinCry/Borrow-Hub): Nền tảng cho thuê những vật dụng nhàn rỗi
